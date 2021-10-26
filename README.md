@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @coffebells
-- 👀 I’m interested in front-end UX|UI DESIGN
+👋 Hi, I’m @coffebells
+ I’m interested in front-end UX|UI DESIGN
 
 <!---
 coffebells/coffebells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
